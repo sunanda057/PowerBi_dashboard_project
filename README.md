@@ -6,4 +6,4 @@ Features
 - Custom visuals
 - Real-time filtering
 
-  
+  Dataset used in this project was sourced from a publicly available learning tutorial. This project is for educational purposes only.
